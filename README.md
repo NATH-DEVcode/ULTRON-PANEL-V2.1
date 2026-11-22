@@ -1,6 +1,20 @@
-ULTRON PANEL V2
+## ║ MAPAMUNDI ║
 
-PANEL ULTRON — NÚCLEO UHD V2
+![Mapamundi ULTRON](./mapamundi%20uis.png)
+
+
+## ║ PERSONALIZACIÓN ║
+
+![Preferencias ULTRON](./Preferencias%20ui.png)
+
+## ║ ADMINISTRACIÓN DE USUARIOS ║
+
+![Usuarios ULTRON](./Usuarios%20ui.png)
+
+
+ULTRON PANEL V2.1
+
+ULTRON-PANEL 
 
 
 ║               CREADO POR                 
