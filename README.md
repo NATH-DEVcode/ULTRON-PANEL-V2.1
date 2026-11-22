@@ -1,20 +1,33 @@
-## ║ MAPAMUNDI ║
+█   █ █     █████ ████   ███  █   █       ████     █   █ ████       █  
+█   █ █       █   █   █ █   █ ██  █       █   █    █   █     █     ██  
+█   █ █       █   ████  █   █ █ █ █ █████ ████     █   █  ███       █  
+█   █ █       █   █  █  █   █ █  ██       █        █ █  █       █   █  
+ ███  █████   █   █   █  ███  █   █       █         █   █████ █ █████
 
-![Mapamundi ULTRON](./mapamundi%20uis.png)
 
 
-## ║ PERSONALIZACIÓN ║
+<h2 align="center">MONITOREO Y MAPAMUNDI</h2>
 
-![Preferencias ULTRON](./Preferencias%20ui.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NATH-DEVcode/ULTRON-PANEL-V2.1/main/Mapamundi%20uis.png" width="850">
+</p>
 
-## ║ ADMINISTRACIÓN DE USUARIOS ║
+<h2 align="center">PERSONALIZACIÓN</h2>
 
-![Usuarios ULTRON](./Usuarios%20ui.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NATH-DEVcode/ULTRON-PANEL-V2.1/main/Preferencias%20ui.png" width="850">
+</p>
+
+<h2 align="center">ADMINISTRACIÓN DE USUARIOS</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NATH-DEVcode/ULTRON-PANEL-V2.1/main/Users%20ui.png" width="850">
+</p>
 
 
 ULTRON PANEL V2.1
 
-ULTRON-PANEL 
+ULTRON-PANEL V2.1
 
 
 ║               CREADO POR                 
