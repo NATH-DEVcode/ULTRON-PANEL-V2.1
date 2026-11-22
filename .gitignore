@@ -13,3 +13,6 @@ config/secrets.conf
 memory/data.json
 dist/*.tmp
 dist/*.exe
+
+config/user.txt
+*.linux-backup
